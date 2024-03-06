@@ -21,7 +21,7 @@ This is a user-friendly web app designed to help you track expenses, set budgets
 
 ## Getting Started
 1. Clone the repository.
-2. `cd` into the `backend` directory and run `pip install -r requirements.txt` to install the backend dependencies.
+2. `cd` into the `backend` directory and run `npm install` to install the required packages.
 
 ## Contributors
 - [mcneelyad](http://www.github.com/mcneelyad)
